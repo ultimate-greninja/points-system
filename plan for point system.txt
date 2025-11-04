@@ -1,0 +1,58 @@
+plan for point system
+
+() Point system{
+   () Tasks {
+      () Priority {
+         () task size,
+         () task importance,
+         () deadlines
+      },
+      () Amount of points,
+
+      () Email confirmation??? (possible but don't)
+   }
+}
+
+() User System{
+   () login,
+   () signup,
+   () User Details{
+      userID,
+      username,
+      email,
+      password,
+      
+   },
+}
+
+() Punishment & Reward System{
+   () level System {
+      Classes{
+         []they have different perks
+         ()etc.
+         },
+      }
+   },
+   () punishments {
+
+   },
+   () Rewards {
+   
+   },
+   () defaults {
+      () denied{
+         []stuff that isn't permitted
+      }
+      () allowed {
+         []stuff that is permitted
+
+      }
+      () guaranteed {
+         [] stuff that you have to do no matter what
+         
+      }
+   },
+   () Tasks {
+      
+   }
+}
