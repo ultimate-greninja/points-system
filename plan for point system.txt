@@ -21,16 +21,22 @@ plan for point system
       username,
       email,
       password,
-      
    },
 }
 
 () Punishment & Reward System{
    () level System {
+      Player
       Classes{
          []they have different perks
          ()etc.
          },
+      Passives{
+         
+      },
+      Equipment{
+         
+      },
       }
    },
    () punishments {
